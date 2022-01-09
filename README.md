@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![KyuoFoxHuyu github stats](https://github-readme-stats.vercel.app/api?username=KyuoFoxHuyu&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=android_kernel_xiaomi_sm8250&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=device_xiaomi_dipper&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=device_xiaomi_sdm845-common&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuoFoxHuyu&layout=compact&theme=vue)](https://github.com/KyuoFoxHuyu)
