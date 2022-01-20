@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Working environment
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
+[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
+
 [![KyuoFoxHuyu github stats](https://github-readme-stats.vercel.app/api?username=KyuoFoxHuyu&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=device_xiaomi_dipper&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=device_xiaomi_sdm845-common&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=vendor_xiaomi_dipper&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=vendor_xiaomi_sdm845-common&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyuoFoxHuyu&repo=vendor_xiaomi_sdm845-common-extra&show_owner=true&theme=vue)](https://github.com/KyuoFoxHuyu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuoFoxHuyu&layout=compact&theme=vue)](https://github.com/KyuoFoxHuyu)
