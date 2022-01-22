@@ -15,7 +15,6 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
-<img align="right" src="https://genshin-card.getloli.com/42/151216346.png" />
 <img align="right" src="https://genshin-card.getloli.com/rand/151216346.png" alt="genshin-card" />
 
 ## 📱 Devices in use
