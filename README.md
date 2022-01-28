@@ -8,7 +8,7 @@
 ## 🤔 What I'm doing
  - Learning Java/Python/C++.
 
-<img align="right" src="https://genshin-card.getloli.com/rand/251369482.png" alt="genshin-card" />
+<img align="right" src="https://genshin-card.getloli.com/rand/121587481.png" alt="genshin-card" />
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
