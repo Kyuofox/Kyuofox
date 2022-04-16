@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KyuoFoxHuyu&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kyuofox&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
 ## Hi there 👋 I'm Kyuofox
 - 🌱 I’m learning Android~
