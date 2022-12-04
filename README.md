@@ -23,3 +23,8 @@
 ## 😉 Genshin
 <img src="https://genshin-card.getloli.com/rand/121587481.png" alt="genshin-card" />
 
+## 📫 Get in touch
+[![Telegram](https://img.shields.io/badge/%40Kyuofox-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Kyuofox)
+[![Bilibili](https://img.shields.io/badge/%E4%B9%9D%E6%9D%A1%E7%A5%90%E5%AD%90-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/401161153)
+[![Email](https://img.shields.io/badge/i%40779%2emoe-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:88403766@qq.com)
+
