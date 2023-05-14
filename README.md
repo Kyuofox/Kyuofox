@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 
 ## 😉 Genshin
-<img src="https://genshin-card.getloli.com/rand/121587481.png" alt="genshin-card" />
+<img src="https://genshin-card.himiku.com/rand/121587481.png" alt="genshin-card" />
 
 ## 📫 Get in touch
 [![Telegram](https://img.shields.io/badge/%40Kyuofox-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Kyuofox)
