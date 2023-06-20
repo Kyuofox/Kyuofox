@@ -1,3 +1,4 @@
+```rust
 use std::collections::HashMap;
 
 struct RustExample {
@@ -36,3 +37,4 @@ impl RustExample {
         }
     }
 }
+```
