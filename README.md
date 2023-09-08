@@ -10,7 +10,7 @@ static DOING: [&str; 2] = [
     "Stay at home in a daze.",
 ];
 
-static DEVICE: [&str; 5] = [
+static DEVICE: [&str; 3] = [
     "Xiaomi 8",
     "Redmi K30 Pro / POCO F2 Pro",
     "Redmi Note 12 Turbo / POCO F5",
